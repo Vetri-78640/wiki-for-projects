@@ -1,0 +1,32 @@
+# data, models and predictions never go in the wiki
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.pkl
+*.joblib
+data/
+datasets/
+checkpoints/
+
+# secrets
+.env
+.env.*
+*.pem
+*.key
+kaggle.json
+.netrc
+
+# local tools and editors
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.obsidian/workspace*.json
