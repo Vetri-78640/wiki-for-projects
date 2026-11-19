@@ -6,7 +6,7 @@ Write it before acting. Once accepted, never rewrite the decision: write a new r
 Required sections: status lines, context, options, decision, consequences, evidence.
 Example: wiki/decisions/0001-record-decisions.md -->
 
-- Status: <proposed | accepted | rejected | superseded by [[NNNN-...]]>
+- Status: <proposed | accepted | rejected | superseded by [[<NNNN-title>]]>
 - Date: <YYYY-MM-DD>
 - Deciders: <who decided>
 
